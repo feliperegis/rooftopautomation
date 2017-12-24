@@ -1,4 +1,4 @@
-# rooftopautomation
+# Sol Makers Rooftop Automation
 #edition 1.0
 
 #Brief description:
