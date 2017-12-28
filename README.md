@@ -16,7 +16,7 @@ Project Functionalities and Devices:
 2 - Raspberry Pi 3, model B
 1 - 7" LCD Display
 1 - 4 Channels Relay Board
-3 - ESP 8266
+5 - ESP 8266
 1 - Amazon Echo Dot
 2 - 40cm 3-speeds switch Fans
 1 - Datashow
